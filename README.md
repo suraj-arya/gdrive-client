@@ -7,7 +7,7 @@ An simpler lightweight version of google drive api client if you only want to li
 you can install it from github
 
 ```bash
-pip install git+https://github.com/loanzen/gdrive-client.git
+pip install gdrive-client
 ```
 
 now you can use the client,
