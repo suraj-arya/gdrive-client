@@ -5,7 +5,7 @@ except ImportError:
     from distutils.core import setup
 
 REQUIRES = ["cryptography==1.0", "google-api-python-client==1.4.2",
-            "oauth2client==1.5.2", "pycrypto==2.6.1", "pyopenssl==0.15.1",
+            "oauth2client==1.5.2", "pycrypto==2.6.1", "pyopenssl==17.5.0",
             "arrow==0.6.0"]
 
 setup(
